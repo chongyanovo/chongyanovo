@@ -37,7 +37,7 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <code><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/WebPack.svg" alt="WebPack" /></a></code>
 <code><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Nextjs.svg" alt="Nextjs" /></a>
 </code>
-<h4>Frontend</h4>
+<h4>Backend</h4>
 <code><a href="https://gorm.io/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Gorm.svg" alt="Gorm" /></a></code>
 <code><a href="https://grpc.io/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/gRPC.svg" alt="gRPC" /></a></code>
 <code><a href="https://spring.io/" target="_blank" rel="noreferrer"><img height="40" width="40" src="./assets/Spring.svg" alt="Spring" /></a></code>
