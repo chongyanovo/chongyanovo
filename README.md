@@ -14,6 +14,9 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
     <li>🐈️ Love some cute animal.</li>
 </ul>
 
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+
 <div align="center">
 <img src="https://chongyan-github-readme-stats-5tsvxypir-chongyanovo.vercel.app/api?username=ChongYanOvO&show_icons=true&theme=transparent" alt="ChongYanOvO"/>
 </div>
