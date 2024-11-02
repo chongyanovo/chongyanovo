@@ -24,15 +24,15 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 30 October 2024
+From: 01 October 2024 - To: 31 October 2024
 
-Total Time: 99 hrs 47 mins
+Total Time: 100 hrs 32 mins
 
-Go                   76 hrs 15 mins  ██████████████████▒░░░░░░   73.36 %
-sh                   16 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-YAML                 4 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Other                4 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-JSON                 1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Go                   76 hrs 59 mins  ██████████████████▒░░░░░░   73.47 %
+sh                   16 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+YAML                 4 hrs 24 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Other                4 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+JSON                 1 hr 48 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
