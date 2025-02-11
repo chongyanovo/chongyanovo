@@ -24,15 +24,15 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 08 February 2025
+From: 10 January 2025 - To: 09 February 2025
 
-Total Time: 55 hrs 42 mins
+Total Time: 50 hrs 29 mins
 
-Go                         46 hrs 12 mins  ██████████████████▒░░░░░░   73.85 %
-Other                      6 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-SQL                        3 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-YAML                       1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-Bash                       1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Go                         41 hrs 7 mins   ██████████████████░░░░░░░   71.70 %
+Other                      6 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+SQL                        3 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+YAML                       1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Bash                       1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->
