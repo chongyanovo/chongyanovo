@@ -24,15 +24,15 @@ Hi Guys, my name is Han Xin(韩信), BackEnd developer.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 February 2025 - To: 20 March 2025
+From: 19 February 2025 - To: 21 March 2025
 
-Total Time: 187 hrs 55 mins
+Total Time: 177 hrs 1 min
 
-Go                         77 hrs 17 mins  ██████████░░░░░░░░░░░░░░░   40.16 %
-TypeScript                 55 hrs 47 mins  ███████▒░░░░░░░░░░░░░░░░░   28.99 %
-JSON                       10 hrs 28 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Text                       8 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Python                     6 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Go                         66 hrs 32 mins  █████████▒░░░░░░░░░░░░░░░   36.79 %
+TypeScript                 55 hrs 47 mins  ███████▓░░░░░░░░░░░░░░░░░   30.84 %
+JSON                       10 hrs 22 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Text                       8 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Python                     6 hrs 56 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
 ```
 
 <!--END_SECTION:waka-->
